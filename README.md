@@ -1,5 +1,6 @@
 # Email-Spam-Detector-using-Naive-Bayes
 Author : Md Asher
+
 Goal :
 From a dataset containing various Subjects of emails which are classified as either Spam or as Ham (Not Spam).
 We are required to predict whether given an Email subject whether it is Spam or Ham.
